@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: 374981d71babd9847b59283c5f2702c0
+timeCreated: 1480422541
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mcl_Wag_Abdomen
+    100004: mcl_Wag_Chest
+    100006: mcl_Wag_Head
+    100008: mcl_Wag_Hip
+    100010: mcl_Wag_Left Collar
+    100012: mcl_Wag_Left Foot
+    100014: mcl_Wag_Left Forearm
+    100016: mcl_Wag_Left Hand
+    100018: mcl_Wag_Left Shin
+    100020: mcl_Wag_Left Shoulder
+    100022: mcl_Wag_Left Thigh
+    100024: mcl_Wag_lEye
+    100026: mcl_Wag_lIndex1
+    100028: mcl_Wag_lIndex2
+    100030: mcl_Wag_lIndex3
+    100032: mcl_Wag_lMid1
+    100034: mcl_Wag_lMid2
+    100036: mcl_Wag_lMid3
+    100038: mcl_Wag_lowerJaw
+    100040: mcl_Wag_lPinky1
+    100042: mcl_Wag_lPinky2
+    100044: mcl_Wag_lPinky3
+    100046: mcl_Wag_lRing1
+    100048: mcl_Wag_lRing2
+    100050: mcl_Wag_lRing3
+    100052: mcl_Wag_lThumb1
+    100054: mcl_Wag_lThumb2
+    100056: mcl_Wag_lThumb3
+    100058: mcl_Wag_lToe
+    100060: mcl_Wag_Neck
+    100062: mcl_Wag_rEye
+    100064: mcl_Wag_Right Collar
+    100066: mcl_Wag_Right Foot
+    100068: mcl_Wag_Right Forearm
+    100070: mcl_Wag_Right Hand
+    100072: mcl_Wag_Right Shin
+    100074: mcl_Wag_Right Shoulder
+    100076: mcl_Wag_Right Thigh
+    100078: mcl_Wag_rIndex1
+    100080: mcl_Wag_rIndex2
+    100082: mcl_Wag_rIndex3
+    100084: mcl_Wag_rMid1
+    100086: mcl_Wag_rMid2
+    100088: mcl_Wag_rMid3
+    100090: mcl_Wag_rPinky1
+    100092: mcl_Wag_rPinky2
+    100094: mcl_Wag_rPinky3
+    100096: mcl_Wag_rRing1
+    100098: mcl_Wag_rRing2
+    100100: mcl_Wag_rRing3
+    100102: mcl_Wag_rThumb1
+    100104: mcl_Wag_rThumb2
+    100106: mcl_Wag_rThumb3
+    100108: mcl_Wag_rToe
+    100110: mcl_Wag_tongue01
+    100112: mcl_Wag_tongue02
+    100114: mcl_Wag_tongue03
+    100116: mcl_Wag_tongue04
+    100118: mcl_Wag_tongue05
+    100120: mcl_Wag_tongueBase
+    100122: mcl_Wag_tongueTip
+    100124: mcl_Wag_upperJaw
+    100126: Wag_Cloth_Male_LOD0
+    100128: Wag_Cloth_Male_LOD1
+    100130: Wag_Cloth_Male_LOD2
+    100132: Wag_Cloth_Male_LOD3
+    100134: Wagsuit_Cloth_Male
+    400000: //RootNode
+    400002: mcl_Wag_Abdomen
+    400004: mcl_Wag_Chest
+    400006: mcl_Wag_Head
+    400008: mcl_Wag_Hip
+    400010: mcl_Wag_Left Collar
+    400012: mcl_Wag_Left Foot
+    400014: mcl_Wag_Left Forearm
+    400016: mcl_Wag_Left Hand
+    400018: mcl_Wag_Left Shin
+    400020: mcl_Wag_Left Shoulder
+    400022: mcl_Wag_Left Thigh
+    400024: mcl_Wag_lEye
+    400026: mcl_Wag_lIndex1
+    400028: mcl_Wag_lIndex2
+    400030: mcl_Wag_lIndex3
+    400032: mcl_Wag_lMid1
+    400034: mcl_Wag_lMid2
+    400036: mcl_Wag_lMid3
+    400038: mcl_Wag_lowerJaw
+    400040: mcl_Wag_lPinky1
+    400042: mcl_Wag_lPinky2
+    400044: mcl_Wag_lPinky3
+    400046: mcl_Wag_lRing1
+    400048: mcl_Wag_lRing2
+    400050: mcl_Wag_lRing3
+    400052: mcl_Wag_lThumb1
+    400054: mcl_Wag_lThumb2
+    400056: mcl_Wag_lThumb3
+    400058: mcl_Wag_lToe
+    400060: mcl_Wag_Neck
+    400062: mcl_Wag_rEye
+    400064: mcl_Wag_Right Collar
+    400066: mcl_Wag_Right Foot
+    400068: mcl_Wag_Right Forearm
+    400070: mcl_Wag_Right Hand
+    400072: mcl_Wag_Right Shin
+    400074: mcl_Wag_Right Shoulder
+    400076: mcl_Wag_Right Thigh
+    400078: mcl_Wag_rIndex1
+    400080: mcl_Wag_rIndex2
+    400082: mcl_Wag_rIndex3
+    400084: mcl_Wag_rMid1
+    400086: mcl_Wag_rMid2
+    400088: mcl_Wag_rMid3
+    400090: mcl_Wag_rPinky1
+    400092: mcl_Wag_rPinky2
+    400094: mcl_Wag_rPinky3
+    400096: mcl_Wag_rRing1
+    400098: mcl_Wag_rRing2
+    400100: mcl_Wag_rRing3
+    400102: mcl_Wag_rThumb1
+    400104: mcl_Wag_rThumb2
+    400106: mcl_Wag_rThumb3
+    400108: mcl_Wag_rToe
+    400110: mcl_Wag_tongue01
+    400112: mcl_Wag_tongue02
+    400114: mcl_Wag_tongue03
+    400116: mcl_Wag_tongue04
+    400118: mcl_Wag_tongue05
+    400120: mcl_Wag_tongueBase
+    400122: mcl_Wag_tongueTip
+    400124: mcl_Wag_upperJaw
+    400126: Wag_Cloth_Male_LOD0
+    400128: Wag_Cloth_Male_LOD1
+    400130: Wag_Cloth_Male_LOD2
+    400132: Wag_Cloth_Male_LOD3
+    400134: Wagsuit_Cloth_Male
+    4300000: Wag_Cloth_Male_LOD0
+    4300002: Wag_Cloth_Male_LOD1
+    4300004: Wag_Cloth_Male_LOD2
+    4300006: Wag_Cloth_Male_LOD3
+    9500000: //RootNode
+    13700000: Wag_Cloth_Male_LOD0
+    13700002: Wag_Cloth_Male_LOD1
+    13700004: Wag_Cloth_Male_LOD2
+    13700006: Wag_Cloth_Male_LOD3
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

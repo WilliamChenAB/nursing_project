@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: ca8c4ec0909573848bb4a905a9ef6206
+timeCreated: 1482669356
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Boxer_Cloth_Male
+    100002: Boxer_Cloth_Male_LOD0
+    100004: Boxer_Cloth_Male_LOD1
+    100006: Boxer_Cloth_Male_LOD2
+    100008: //RootNode
+    100010: mcl_Box_Abdomen
+    100012: mcl_Box_Chest
+    100014: mcl_Box_Head
+    100016: mcl_Box_Hip
+    100018: mcl_Box_Left Collar
+    100020: mcl_Box_Left Foot
+    100022: mcl_Box_Left Forearm
+    100024: mcl_Box_Left Hand
+    100026: mcl_Box_Left Shin
+    100028: mcl_Box_Left Shoulder
+    100030: mcl_Box_Left Thigh
+    100032: mcl_Box_lEye
+    100034: mcl_Box_lIndex1
+    100036: mcl_Box_lIndex2
+    100038: mcl_Box_lIndex3
+    100040: mcl_Box_lMid1
+    100042: mcl_Box_lMid2
+    100044: mcl_Box_lMid3
+    100046: mcl_Box_lowerJaw
+    100048: mcl_Box_lPinky1
+    100050: mcl_Box_lPinky2
+    100052: mcl_Box_lPinky3
+    100054: mcl_Box_lRing1
+    100056: mcl_Box_lRing2
+    100058: mcl_Box_lRing3
+    100060: mcl_Box_lThumb1
+    100062: mcl_Box_lThumb2
+    100064: mcl_Box_lThumb3
+    100066: mcl_Box_lToe
+    100068: mcl_Box_Neck
+    100070: mcl_Box_rEye
+    100072: mcl_Box_Right Collar
+    100074: mcl_Box_Right Foot
+    100076: mcl_Box_Right Forearm
+    100078: mcl_Box_Right Hand
+    100080: mcl_Box_Right Shin
+    100082: mcl_Box_Right Shoulder
+    100084: mcl_Box_Right Thigh
+    100086: mcl_Box_rIndex1
+    100088: mcl_Box_rIndex2
+    100090: mcl_Box_rIndex3
+    100092: mcl_Box_rMid1
+    100094: mcl_Box_rMid2
+    100096: mcl_Box_rMid3
+    100098: mcl_Box_rPinky1
+    100100: mcl_Box_rPinky2
+    100102: mcl_Box_rPinky3
+    100104: mcl_Box_rRing1
+    100106: mcl_Box_rRing2
+    100108: mcl_Box_rRing3
+    100110: mcl_Box_rThumb1
+    100112: mcl_Box_rThumb2
+    100114: mcl_Box_rThumb3
+    100116: mcl_Box_rToe
+    100118: mcl_Box_tongue01
+    100120: mcl_Box_tongue02
+    100122: mcl_Box_tongue03
+    100124: mcl_Box_tongue04
+    100126: mcl_Box_tongue05
+    100128: mcl_Box_tongueBase
+    100130: mcl_Box_tongueTip
+    100132: mcl_Box_upperJaw
+    400000: Boxer_Cloth_Male
+    400002: Boxer_Cloth_Male_LOD0
+    400004: Boxer_Cloth_Male_LOD1
+    400006: Boxer_Cloth_Male_LOD2
+    400008: //RootNode
+    400010: mcl_Box_Abdomen
+    400012: mcl_Box_Chest
+    400014: mcl_Box_Head
+    400016: mcl_Box_Hip
+    400018: mcl_Box_Left Collar
+    400020: mcl_Box_Left Foot
+    400022: mcl_Box_Left Forearm
+    400024: mcl_Box_Left Hand
+    400026: mcl_Box_Left Shin
+    400028: mcl_Box_Left Shoulder
+    400030: mcl_Box_Left Thigh
+    400032: mcl_Box_lEye
+    400034: mcl_Box_lIndex1
+    400036: mcl_Box_lIndex2
+    400038: mcl_Box_lIndex3
+    400040: mcl_Box_lMid1
+    400042: mcl_Box_lMid2
+    400044: mcl_Box_lMid3
+    400046: mcl_Box_lowerJaw
+    400048: mcl_Box_lPinky1
+    400050: mcl_Box_lPinky2
+    400052: mcl_Box_lPinky3
+    400054: mcl_Box_lRing1
+    400056: mcl_Box_lRing2
+    400058: mcl_Box_lRing3
+    400060: mcl_Box_lThumb1
+    400062: mcl_Box_lThumb2
+    400064: mcl_Box_lThumb3
+    400066: mcl_Box_lToe
+    400068: mcl_Box_Neck
+    400070: mcl_Box_rEye
+    400072: mcl_Box_Right Collar
+    400074: mcl_Box_Right Foot
+    400076: mcl_Box_Right Forearm
+    400078: mcl_Box_Right Hand
+    400080: mcl_Box_Right Shin
+    400082: mcl_Box_Right Shoulder
+    400084: mcl_Box_Right Thigh
+    400086: mcl_Box_rIndex1
+    400088: mcl_Box_rIndex2
+    400090: mcl_Box_rIndex3
+    400092: mcl_Box_rMid1
+    400094: mcl_Box_rMid2
+    400096: mcl_Box_rMid3
+    400098: mcl_Box_rPinky1
+    400100: mcl_Box_rPinky2
+    400102: mcl_Box_rPinky3
+    400104: mcl_Box_rRing1
+    400106: mcl_Box_rRing2
+    400108: mcl_Box_rRing3
+    400110: mcl_Box_rThumb1
+    400112: mcl_Box_rThumb2
+    400114: mcl_Box_rThumb3
+    400116: mcl_Box_rToe
+    400118: mcl_Box_tongue01
+    400120: mcl_Box_tongue02
+    400122: mcl_Box_tongue03
+    400124: mcl_Box_tongue04
+    400126: mcl_Box_tongue05
+    400128: mcl_Box_tongueBase
+    400130: mcl_Box_tongueTip
+    400132: mcl_Box_upperJaw
+    4300000: Boxer_Cloth_Male_LOD0
+    4300002: Boxer_Cloth_Male_LOD1
+    4300004: Boxer_Cloth_Male_LOD2
+    9500000: //RootNode
+    13700000: Boxer_Cloth_Male_LOD0
+    13700002: Boxer_Cloth_Male_LOD1
+    13700004: Boxer_Cloth_Male_LOD2
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

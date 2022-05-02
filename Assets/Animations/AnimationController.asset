@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 726b124e23db5584eb6a973c6677795c, type: 3}
+  m_Name: AnimationController
+  m_EditorClassIdentifier: 
+  walk: {fileID: 9100000, guid: 7b0b66f7d782f4deb87284ea9969c491, type: 2}
+  angry: {fileID: 9100000, guid: 78b8b43c55dbe7440836150f3b5578ec, type: 2}
+  neutral: {fileID: 9100000, guid: 820db39e006d81c4e923f1e52d2d6169, type: 2}
+  sad: {fileID: 9100000, guid: 00079b1ee43822a44859af6cef1ea473, type: 2}

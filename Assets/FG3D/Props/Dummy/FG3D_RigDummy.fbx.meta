@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: e24ebab55268f834dbc10b262e8172ff
+timeCreated: 1482939710
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: md_Abdomen
+    100004: md_Chest
+    100006: md_Head
+    100008: md_Hip
+    100010: md_Left Collar
+    100012: md_Left Foot
+    100014: md_Left Forearm
+    100016: md_Left Hand
+    100018: md_Left Shin
+    100020: md_Left Shoulder
+    100022: md_Left Thigh
+    100024: md_lEye
+    100026: md_lIndex1
+    100028: md_lIndex2
+    100030: md_lIndex3
+    100032: md_lMid1
+    100034: md_lMid2
+    100036: md_lMid3
+    100038: md_lowerJaw
+    100040: md_lPinky1
+    100042: md_lPinky2
+    100044: md_lPinky3
+    100046: md_lRing1
+    100048: md_lRing2
+    100050: md_lRing3
+    100052: md_lThumb1
+    100054: md_lThumb2
+    100056: md_lThumb3
+    100058: md_lToe
+    100060: md_Neck
+    100062: md_rEye
+    100064: md_Right Collar
+    100066: md_Right Foot
+    100068: md_Right Forearm
+    100070: md_Right Hand
+    100072: md_Right Shin
+    100074: md_Right Shoulder
+    100076: md_Right Thigh
+    100078: md_rIndex1
+    100080: md_rIndex2
+    100082: md_rIndex3
+    100084: md_rMid1
+    100086: md_rMid2
+    100088: md_rMid3
+    100090: md_rPinky1
+    100092: md_rPinky2
+    100094: md_rPinky3
+    100096: md_rRing1
+    100098: md_rRing2
+    100100: md_rRing3
+    100102: md_rThumb1
+    100104: md_rThumb2
+    100106: md_rThumb3
+    100108: md_rToe
+    100110: md_tongue01
+    100112: md_tongue02
+    100114: md_tongue03
+    100116: md_tongue04
+    100118: md_tongue05
+    100120: md_tongueBase
+    100122: md_tongueTip
+    100124: md_upperJaw
+    100126: RigDummy
+    100128: RigDummy_Mesh
+    400000: //RootNode
+    400002: md_Abdomen
+    400004: md_Chest
+    400006: md_Head
+    400008: md_Hip
+    400010: md_Left Collar
+    400012: md_Left Foot
+    400014: md_Left Forearm
+    400016: md_Left Hand
+    400018: md_Left Shin
+    400020: md_Left Shoulder
+    400022: md_Left Thigh
+    400024: md_lEye
+    400026: md_lIndex1
+    400028: md_lIndex2
+    400030: md_lIndex3
+    400032: md_lMid1
+    400034: md_lMid2
+    400036: md_lMid3
+    400038: md_lowerJaw
+    400040: md_lPinky1
+    400042: md_lPinky2
+    400044: md_lPinky3
+    400046: md_lRing1
+    400048: md_lRing2
+    400050: md_lRing3
+    400052: md_lThumb1
+    400054: md_lThumb2
+    400056: md_lThumb3
+    400058: md_lToe
+    400060: md_Neck
+    400062: md_rEye
+    400064: md_Right Collar
+    400066: md_Right Foot
+    400068: md_Right Forearm
+    400070: md_Right Hand
+    400072: md_Right Shin
+    400074: md_Right Shoulder
+    400076: md_Right Thigh
+    400078: md_rIndex1
+    400080: md_rIndex2
+    400082: md_rIndex3
+    400084: md_rMid1
+    400086: md_rMid2
+    400088: md_rMid3
+    400090: md_rPinky1
+    400092: md_rPinky2
+    400094: md_rPinky3
+    400096: md_rRing1
+    400098: md_rRing2
+    400100: md_rRing3
+    400102: md_rThumb1
+    400104: md_rThumb2
+    400106: md_rThumb3
+    400108: md_rToe
+    400110: md_tongue01
+    400112: md_tongue02
+    400114: md_tongue03
+    400116: md_tongue04
+    400118: md_tongue05
+    400120: md_tongueBase
+    400122: md_tongueTip
+    400124: md_upperJaw
+    400126: RigDummy
+    400128: RigDummy_Mesh
+    4300000: RigDummy_Mesh
+    9500000: //RootNode
+    13700000: RigDummy_Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

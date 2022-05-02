@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: ba5c5eab85e9c0b4797dfb17425ff16f
+timeCreated: 1482781247
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: mcl_Shs1Abdomen
+    100004: mcl_Shs1Chest
+    100006: mcl_Shs1Head
+    100008: mcl_Shs1Hip
+    100010: mcl_Shs1Left Collar
+    100012: mcl_Shs1Left Foot
+    100014: mcl_Shs1Left Forearm
+    100016: mcl_Shs1Left Hand
+    100018: mcl_Shs1Left Shin
+    100020: mcl_Shs1Left Shoulder
+    100022: mcl_Shs1Left Thigh
+    100024: mcl_Shs1lEye
+    100026: mcl_Shs1lIndex1
+    100028: mcl_Shs1lIndex2
+    100030: mcl_Shs1lIndex3
+    100032: mcl_Shs1lMid1
+    100034: mcl_Shs1lMid2
+    100036: mcl_Shs1lMid3
+    100038: mcl_Shs1lowerJaw
+    100040: mcl_Shs1lPinky1
+    100042: mcl_Shs1lPinky2
+    100044: mcl_Shs1lPinky3
+    100046: mcl_Shs1lRing1
+    100048: mcl_Shs1lRing2
+    100050: mcl_Shs1lRing3
+    100052: mcl_Shs1lThumb1
+    100054: mcl_Shs1lThumb2
+    100056: mcl_Shs1lThumb3
+    100058: mcl_Shs1lToe
+    100060: mcl_Shs1Neck
+    100062: mcl_Shs1rEye
+    100064: mcl_Shs1Right Collar
+    100066: mcl_Shs1Right Foot
+    100068: mcl_Shs1Right Forearm
+    100070: mcl_Shs1Right Hand
+    100072: mcl_Shs1Right Shin
+    100074: mcl_Shs1Right Shoulder
+    100076: mcl_Shs1Right Thigh
+    100078: mcl_Shs1rIndex1
+    100080: mcl_Shs1rIndex2
+    100082: mcl_Shs1rIndex3
+    100084: mcl_Shs1rMid1
+    100086: mcl_Shs1rMid2
+    100088: mcl_Shs1rMid3
+    100090: mcl_Shs1rPinky1
+    100092: mcl_Shs1rPinky2
+    100094: mcl_Shs1rPinky3
+    100096: mcl_Shs1rRing1
+    100098: mcl_Shs1rRing2
+    100100: mcl_Shs1rRing3
+    100102: mcl_Shs1rThumb1
+    100104: mcl_Shs1rThumb2
+    100106: mcl_Shs1rThumb3
+    100108: mcl_Shs1rToe
+    100110: mcl_Shs1tongue01
+    100112: mcl_Shs1tongue02
+    100114: mcl_Shs1tongue03
+    100116: mcl_Shs1tongue04
+    100118: mcl_Shs1tongue05
+    100120: mcl_Shs1tongueBase
+    100122: mcl_Shs1tongueTip
+    100124: mcl_Shs1upperJaw
+    100126: Shoes1_Cloth_Male
+    100128: Shoes1_Cloth_Male_LOD0
+    100130: Shoes1_Cloth_Male_LOD1
+    100132: Shoes1_Cloth_Male_LOD2
+    100134: Shoes1_Cloth_Male_LOD3
+    400000: //RootNode
+    400002: mcl_Shs1Abdomen
+    400004: mcl_Shs1Chest
+    400006: mcl_Shs1Head
+    400008: mcl_Shs1Hip
+    400010: mcl_Shs1Left Collar
+    400012: mcl_Shs1Left Foot
+    400014: mcl_Shs1Left Forearm
+    400016: mcl_Shs1Left Hand
+    400018: mcl_Shs1Left Shin
+    400020: mcl_Shs1Left Shoulder
+    400022: mcl_Shs1Left Thigh
+    400024: mcl_Shs1lEye
+    400026: mcl_Shs1lIndex1
+    400028: mcl_Shs1lIndex2
+    400030: mcl_Shs1lIndex3
+    400032: mcl_Shs1lMid1
+    400034: mcl_Shs1lMid2
+    400036: mcl_Shs1lMid3
+    400038: mcl_Shs1lowerJaw
+    400040: mcl_Shs1lPinky1
+    400042: mcl_Shs1lPinky2
+    400044: mcl_Shs1lPinky3
+    400046: mcl_Shs1lRing1
+    400048: mcl_Shs1lRing2
+    400050: mcl_Shs1lRing3
+    400052: mcl_Shs1lThumb1
+    400054: mcl_Shs1lThumb2
+    400056: mcl_Shs1lThumb3
+    400058: mcl_Shs1lToe
+    400060: mcl_Shs1Neck
+    400062: mcl_Shs1rEye
+    400064: mcl_Shs1Right Collar
+    400066: mcl_Shs1Right Foot
+    400068: mcl_Shs1Right Forearm
+    400070: mcl_Shs1Right Hand
+    400072: mcl_Shs1Right Shin
+    400074: mcl_Shs1Right Shoulder
+    400076: mcl_Shs1Right Thigh
+    400078: mcl_Shs1rIndex1
+    400080: mcl_Shs1rIndex2
+    400082: mcl_Shs1rIndex3
+    400084: mcl_Shs1rMid1
+    400086: mcl_Shs1rMid2
+    400088: mcl_Shs1rMid3
+    400090: mcl_Shs1rPinky1
+    400092: mcl_Shs1rPinky2
+    400094: mcl_Shs1rPinky3
+    400096: mcl_Shs1rRing1
+    400098: mcl_Shs1rRing2
+    400100: mcl_Shs1rRing3
+    400102: mcl_Shs1rThumb1
+    400104: mcl_Shs1rThumb2
+    400106: mcl_Shs1rThumb3
+    400108: mcl_Shs1rToe
+    400110: mcl_Shs1tongue01
+    400112: mcl_Shs1tongue02
+    400114: mcl_Shs1tongue03
+    400116: mcl_Shs1tongue04
+    400118: mcl_Shs1tongue05
+    400120: mcl_Shs1tongueBase
+    400122: mcl_Shs1tongueTip
+    400124: mcl_Shs1upperJaw
+    400126: Shoes1_Cloth_Male
+    400128: Shoes1_Cloth_Male_LOD0
+    400130: Shoes1_Cloth_Male_LOD1
+    400132: Shoes1_Cloth_Male_LOD2
+    400134: Shoes1_Cloth_Male_LOD3
+    4300000: Shoes1_Cloth_Male_LOD0
+    4300002: Shoes1_Cloth_Male_LOD1
+    4300004: Shoes1_Cloth_Male_LOD2
+    4300006: Shoes1_Cloth_Male_LOD3
+    9500000: //RootNode
+    13700000: Shoes1_Cloth_Male_LOD0
+    13700002: Shoes1_Cloth_Male_LOD1
+    13700004: Shoes1_Cloth_Male_LOD2
+    13700006: Shoes1_Cloth_Male_LOD3
+    20500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
